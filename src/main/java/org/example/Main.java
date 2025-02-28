@@ -5,5 +5,8 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Revertir cambios");
+        System.out.println("Cambios ");
+        int uno = 1;
+        int dos =2;
     }
 }
